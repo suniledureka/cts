@@ -1,0 +1,65 @@
+2025-07-02T09:55:38.559+05:30  INFO 9512 --- [09.sb-banner] [main] o.s.boot.SpringApplication               : 
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+[32m :: Spring Boot :: [39m              [2m (v3.5.3)[0;39m
+
+
+2025-07-02T09:55:38.605+05:30  INFO 9512 --- [09.sb-banner] [main] com.cognizant.boot.Application           : Starting Application using Java 17.0.0.1 with PID 9512 (C:\cognizant\EPS25IPM002\spring\boot\core\09.sb-banner\target\classes started by Sunil Joseph in C:\cognizant\EPS25IPM002\spring\boot\core\09.sb-banner)
+2025-07-02T09:55:38.607+05:30  INFO 9512 --- [09.sb-banner] [main] com.cognizant.boot.Application           : No active profile set, falling back to 1 default profile: "default"
+2025-07-02T09:55:38.981+05:30  INFO 9512 --- [09.sb-banner] [main] com.cognizant.boot.Application           : Started Application in 0.764 seconds (process running for 1.183)
+2025-07-02T09:56:42.769+05:30  INFO 31244 --- [09.sb-banner] [main] o.s.boot.SpringApplication               : 
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+[32m :: Spring Boot :: [39m              [2m (v3.5.3)[0;39m
+
+
+2025-07-02T09:56:42.815+05:30  INFO 31244 --- [09.sb-banner] [main] com.cognizant.boot.Application           : Starting Application using Java 17.0.0.1 with PID 31244 (C:\cognizant\EPS25IPM002\spring\boot\core\09.sb-banner\target\classes started by Sunil Joseph in C:\cognizant\EPS25IPM002\spring\boot\core\09.sb-banner)
+2025-07-02T09:56:42.816+05:30  INFO 31244 --- [09.sb-banner] [main] com.cognizant.boot.Application           : No active profile set, falling back to 1 default profile: "default"
+2025-07-02T09:56:43.179+05:30  INFO 31244 --- [09.sb-banner] [main] com.cognizant.boot.Application           : Started Application in 0.723 seconds (process running for 1.168)
+2025-07-02T09:57:56.150+05:30  INFO 16780 --- [09.sb-banner] [main] o.s.boot.SpringApplication               : my banner
+
+2025-07-02T09:57:56.198+05:30  INFO 16780 --- [09.sb-banner] [main] com.cognizant.boot.Application           : Starting Application using Java 17.0.0.1 with PID 16780 (C:\cognizant\EPS25IPM002\spring\boot\core\09.sb-banner\target\classes started by Sunil Joseph in C:\cognizant\EPS25IPM002\spring\boot\core\09.sb-banner)
+2025-07-02T09:57:56.199+05:30  INFO 16780 --- [09.sb-banner] [main] com.cognizant.boot.Application           : No active profile set, falling back to 1 default profile: "default"
+2025-07-02T09:57:56.588+05:30  INFO 16780 --- [09.sb-banner] [main] com.cognizant.boot.Application           : Started Application in 0.794 seconds (process running for 1.231)
+2025-07-02T09:58:40.991+05:30  INFO 20504 --- [09.sb-banner] [main] o.s.boot.SpringApplication               : 
+
+
+       my banner
+       
+       
+       
+       
+
+2025-07-02T09:58:41.037+05:30  INFO 20504 --- [09.sb-banner] [main] com.cognizant.boot.Application           : Starting Application using Java 17.0.0.1 with PID 20504 (C:\cognizant\EPS25IPM002\spring\boot\core\09.sb-banner\target\classes started by Sunil Joseph in C:\cognizant\EPS25IPM002\spring\boot\core\09.sb-banner)
+2025-07-02T09:58:41.038+05:30  INFO 20504 --- [09.sb-banner] [main] com.cognizant.boot.Application           : No active profile set, falling back to 1 default profile: "default"
+2025-07-02T09:58:41.421+05:30  INFO 20504 --- [09.sb-banner] [main] com.cognizant.boot.Application           : Started Application in 0.79 seconds (process running for 1.234)
+2025-07-02T09:59:50.559+05:30  INFO 26016 --- [09.sb-banner] [main] o.s.boot.SpringApplication               :      _..._       .-'''-.                                                                      
+    .-'_..._''.   '   _    \                                                                    
+  .' .'      '.\/   /` '.   \             _..._   .--.                        _..._             
+ / .'          .   |     \  '  .--./)   .'     '. |__|                      .'     '.           
+. '            |   '      |  '/.''\\   .   .-.   ..--.                     .   .-.   .     .|   
+| |            \    \     / /| |  | |  |  '   '  ||  |               __    |  '   '  |   .' |_  
+| |             `.   ` ..' /  \`-' /   |  |   |  ||  |.--------.  .:--.'.  |  |   |  | .'     | 
+. '                '-...-'`   /("'`    |  |   |  ||  ||____    | / |   \ | |  |   |  |'--.  .-' 
+ \ '.          .              \ '---.  |  |   |  ||  |    /   /  `" __ | | |  |   |  |   |  |   
+  '. `._____.-'/               /'""'.\ |  |   |  ||__|  .'   /    .'.''| | |  |   |  |   |  |   
+    `-.______ /               ||     |||  |   |  |     /    /___ / /   | |_|  |   |  |   |  '.' 
+             `                \'. __// |  |   |  |    |         |\ \._,\ '/|  |   |  |   |   /  
+                               `'---'  '--'   '--'    |_________| `--'  `" '--'   '--'   `'-'   
+                               														Spring Boot 3.5.3
+                               														
+                               														
+
+2025-07-02T09:59:50.604+05:30  INFO 26016 --- [09.sb-banner] [main] com.cognizant.boot.Application           : Starting Application using Java 17.0.0.1 with PID 26016 (C:\cognizant\EPS25IPM002\spring\boot\core\09.sb-banner\target\classes started by Sunil Joseph in C:\cognizant\EPS25IPM002\spring\boot\core\09.sb-banner)
+2025-07-02T09:59:50.605+05:30  INFO 26016 --- [09.sb-banner] [main] com.cognizant.boot.Application           : No active profile set, falling back to 1 default profile: "default"
+2025-07-02T09:59:50.983+05:30  INFO 26016 --- [09.sb-banner] [main] com.cognizant.boot.Application           : Started Application in 0.784 seconds (process running for 1.218)
