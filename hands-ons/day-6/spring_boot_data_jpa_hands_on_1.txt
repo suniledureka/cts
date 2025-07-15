@@ -1,0 +1,15 @@
+General 1) work on all the additional methods of JpaRepository
+
+General 2) work on all the methods of org.springframework.data.domain.Sort
+
+General 3) work on all the methods org.springframework.data.domain.PageRequest & org.springframework.data.domain.Page
+
+General 4) combine pagination with sorting
+
+General 5) implement Query By Example
+
+1) implement Generation Strategies with different databases H2, MySQL/ Oracle/ DB2
+
+2) implement generation strategy to auto generate employeeNo in employee-management project
+
+3) custom generator with the count of records in the DB table and should prefix with "WIPRO_"+(count++)
