@@ -1,6 +1,0 @@
-1) Implement In-Memory Authentication on any of the Spring REST/ Microservice we implemented in previous session
-
-2) Implement JDBC Authentication on any of the Spring REST/ Microservice we implemented in previous session
-
-3) Implement JWT Authentication on any of the Spring REST/ Microservice we implemented in previous session
-
